@@ -1,3 +1,4 @@
 [submodule "gitflow-repository"]
 	path = gitflow-repository
 	url = git@github.com:Yrds/gitflow-repository.git
+	branch = master
