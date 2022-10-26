@@ -1,0 +1,3 @@
+[submodule "gitflow-repository"]
+	path = gitflow-repository
+	url = ./gitflow-repository
